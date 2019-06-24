@@ -1,0 +1,41 @@
+#para
+{
+	color: red;
+	font-size: 50px;
+}
+.para1
+{
+	color: blue;
+	font-size: 40px;
+}
+.image
+{
+	height: 30px;
+	width: 50px;
+}
+.image:hover
+{
+	height: 200px;
+	width: 80%;
+}
+
+.division
+{
+	background-color: red;
+	font-size: 30px;
+	font-style: bold;
+	color: #ff0000;
+	color: rgb(100,38,25);
+	color: rgba(200,100,70,0.70);
+	padding-right: 30px;
+	padding-top: 20px;
+	padding-left: 50px;
+	padding-bottom: 40px;
+	margin: 30px;
+	background-image: url("lighthouse.jpg");
+	background-repeat: no-repeat;
+	background-position:  center-right;
+	text-align: center;
+	height: 30%;
+	width: 30%;
+}
